@@ -14,7 +14,7 @@ function createCard(id, name, closeApproaach, estimatedDiameter, danger){
                     <h3 class="card-title">Nome: ${name}</h5>
                 </button>
             </h2>
-            <div id="panelsStayOpen${id}" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen${id}">
+            <div id="panelsStayOpen${id}" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen${id}">
                 <div class="accordion-body">
                     <p>Nome: ${name}</p>
                     <p>Data de maior aproximação: ${closeApproaach}</p>

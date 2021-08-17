@@ -31,7 +31,7 @@ Buscando asteróides que passaram perto da terra em um intervalo de tempo.
 
     # caso utilize Visual Studio code tente:
     code .
-s
+
 ```
 ## 	👨  Autor
 
